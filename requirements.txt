@@ -1,0 +1,6 @@
+tkinter
+google-generativeai
+python-dotenv
+flask
+dotenv
+python-dotenv
